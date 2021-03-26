@@ -21,7 +21,13 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test_mail" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectId" id="1q1iOIJPxtAWX9u0PfEYGimZ9gn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -60,6 +66,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -79,6 +86,7 @@
       <workItem from="1616615876053" duration="29000" />
       <workItem from="1616616066386" duration="1553000" />
       <workItem from="1616696898675" duration="777000" />
+      <workItem from="1616796217776" duration="448000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <created>1616515763764</created>
@@ -108,7 +116,28 @@
       <option name="project" value="LOCAL" />
       <updated>1616697032960</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1">
+      <created>1616796328365</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616796328365</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1">
+      <created>1616796558440</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616796558440</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Second">
+      <created>1616796643979</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1616796643979</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +158,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First" />
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="1" />
+    <MESSAGE value="Second" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second" />
   </component>
 </project>

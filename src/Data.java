@@ -12,7 +12,6 @@ public class Data {
         Pattern pattern3 = Pattern.compile("\\b((0[1-9])|([1-2][0-9])|(3[0-1]))\\.((0[1-9])|(1[0-2]))\\.(202[1-9]{1})");
         Matcher matcher3 = pattern3.matcher(text);
         int count = 0;
-
         while (matcher3.find()) {
             int start = matcher3.start();
             int end = matcher3.end();

@@ -25,7 +25,6 @@ public class Main {
             System.out.println("Ни один из запрошенных параметров не указан");
         } else
             System.out.println(data.getData() + " в " + time.getVremya() + " необходимо отправить сообщение на е-мейл: " + mail.getMail());
-
     }
 }
 
