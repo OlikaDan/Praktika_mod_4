@@ -11,7 +11,7 @@ public class Mail {
     public void setMail(String text) {
         /*эл.адрес может содержать буквы и цифры, а также знаки: "-","_" и ".".
         Если стоит такой знак, после него должна быть минимум одна буква. В данной проверке допускается до трех небуквенных знаков*/
-        Pattern pattern2 = Pattern.compile("([a-z\\d]+[\\.\\-_]*[a-z\\d]*[\\.\\-_]?[a-z\\d]*[\\.\\-_]?[a-z\\d]+)@[a-z]*\\.[a-z]"); //"\\\\w+([\\\\.-]?\\\\w+)*@\\\\w+([\\\\.-]?\\\\w+)"
+        Pattern pattern2 = Pattern.compile("([a-z\\d]+[\\.\\-_]*[a-z\\d]*[\\.\\-_]?[a-z\\d]*[\\.\\-_]?[a-z\\d]+)@[a-z]*\\.[a-z]");
         Matcher matcher2 = pattern2.matcher(text);
         int count = 0;
 
